@@ -1,3 +1,4 @@
+http://example.com/post/NEAR%E5%8D%8F%E8%AE%AE%E8%A7%84%E8%8C%83-%E9%93%BE%E8%A7%84%E8%8C%83.html
 http://example.com/post/NEAR%20SDK%20-%20%E5%87%8F%E5%B0%8F%E5%90%88%E7%BA%A6%E5%B0%BA%E5%AF%B8.html
 http://example.com/post/NEAR%20SDK%20-%20%E6%9E%84%E5%BB%BA%E5%90%88%E7%BA%A6.html
 http://example.com/post/NEAR%20SDK%20-%20%E5%90%88%E7%BA%A6%E5%8D%87%E7%BA%A7.html
@@ -8,4 +9,6 @@ http://example.com/post/NEAR%20SDK%20-%20%E5%90%88%E7%BA%A6%E6%8E%A5%E5%8F%A3.ht
 http://example.com/
 http://example.com/tags/NEAR/
 http://example.com/tags/near-sdk-rs/
+http://example.com/tags/NEAR-Protocol/
 http://example.com/categories/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/
+http://example.com/categories/NEAR%E5%8D%8F%E8%AE%AE%E8%A7%84%E8%8C%83/
