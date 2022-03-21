@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/post/NEAR%E5%8D%8F%E8%AE%AE%E8%A7%84%E8%8C%83-%E9%93%BE%E8%A7%84%E8%8C%83.html</loc>
+    <loc>http://example.com/post/NEAR%20consensus.html</loc>
     
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>http://example.com/post/NEAR%20SDK%20-%20%E5%87%8F%E5%B0%8F%E5%90%88%E7%BA%A6%E5%B0%BA%E5%AF%B8.html</loc>
     
-    <lastmod>2022-03-16</lastmod>
+    <lastmod>2022-03-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +84,21 @@
   
   <url>
     <loc>http://example.com/tags/NEAR/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/near-sdk-rs/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/NEAR-Protocol/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,14 +107,14 @@
   
   <url>
     <loc>http://example.com/categories/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/NEAR%E5%8D%8F%E8%AE%AE%E8%A7%84%E8%8C%83/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
