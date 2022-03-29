@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-03-21</lastmod>
+    <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +84,21 @@
   
   <url>
     <loc>http://example.com/tags/NEAR/</loc>
-    <lastmod>2022-03-21</lastmod>
+    <lastmod>2022-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/near-sdk-rs/</loc>
-    <lastmod>2022-03-21</lastmod>
+    <lastmod>2022-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/NEAR-Protocol/</loc>
-    <lastmod>2022-03-21</lastmod>
+    <lastmod>2022-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,14 +107,14 @@
   
   <url>
     <loc>http://example.com/categories/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2022-03-21</lastmod>
+    <lastmod>2022-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/NEAR%E5%8D%8F%E8%AE%AE%E8%A7%84%E8%8C%83/</loc>
-    <lastmod>2022-03-21</lastmod>
+    <lastmod>2022-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
