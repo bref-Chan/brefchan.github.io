@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>NEAR-SDK 关于LazyOption不能与Vector,UnorderedSet和UnorderedMap搭配使用的问题研究</title>
+      <title>NEAR-SDK 关于LazyOption与UnorderedSet搭配使用时修改但不使用set导致的数据存储行为不一致的问题研究</title>
       <link href="//post/near_sdk_issues_703.html"/>
       <url>//post/near_sdk_issues_703.html</url>
       
